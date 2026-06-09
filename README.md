@@ -1,5 +1,5 @@
 # Matrix-Multiplier-from-basic
-This program takes any 2 general matrix and multiplies them if possible else it just returns "NOT POSSIBLE"
-I have recently studied matrix multiplication and thought to automate it using raw python without the use of numpy
-Users can use this as an exercise to test their basic python logic
+This program takes any 2 general matrix and multiplies them if possible else it just returns "NOT POSSIBLE". 
+I have recently studied matrix multiplication and thought to automate it using raw python without the use of numpy. 
+Users can use this as an exercise to test their basic python logic. 
 Note that for faster and better use it is suggested to use numpy
